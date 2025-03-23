@@ -1,6 +1,6 @@
  [![Header](https://github.com/whojase/whojase/blob/main/assets/logo.gif)](https://www.youtube.com/@zzio415)
 
- ## I am a Soft Engineer, specializing in writing software, as well as the backend side. I am also interested in hacking, reverse engineering, pintesting
+ ## I am a Soft Engineer, specializing in writing software, as well as the backend side.
 
  ### Langueges and Tools
  ![Python](https://img.shields.io/badge/-Python-070708?style=for-the-badge&logo=python)
@@ -14,6 +14,5 @@
  ![Linux](https://img.shields.io/badge/-Linux-070708?style=for-the-badge&logo=linux)
  
  ### Folow me
-
- [![YouTube](https://img.shields.io/badge/-Youtube-070708?style=for-the-badge&logo=youtube&logoColor=f00)](https://www.youtube.com/@zzio415)
+ 
  [![Telegram](https://img.shields.io/badge/-Telegram-070708?style=for-the-badge&logo=telegram)](https://t.me/prrrtrager)
