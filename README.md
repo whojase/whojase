@@ -1,6 +1,6 @@
  [![Header](https://github.com/whojase/whojase/blob/main/assets/logo.gif)](https://www.youtube.com/@zzio415)
 
- ## I am a Soft Engineer, specializing in writing software, as well as the backend side.
+ ## I am a Soft Engineer, specializing in writing software, as well as the backend side. I am also a beginner reverse engineer
 
  ### Langueges and Tools
  ![Python](https://img.shields.io/badge/-Python-070708?style=for-the-badge&logo=python)
